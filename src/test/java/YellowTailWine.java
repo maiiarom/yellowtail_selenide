@@ -6,11 +6,7 @@ import utils.Constants;
 
 import static com.codeborne.selenide.CollectionCondition.size;
 import static com.codeborne.selenide.Condition.text;
-import static com.codeborne.selenide.Condition.visible;
-import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
-import static utils.Constants.PATH_TO_FIREFOX_DRIVER;
-import static utils.Constants.SYSTEM_PROPERTY_FIREFOX_DRIVE;
 
 public class YellowTailWine extends SelenideRunner {
     @Test
