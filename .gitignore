@@ -1,5 +1,5 @@
 target/
 .idea/
-HomeTask27.iml
+*.iml
 allure-results/
 build/
